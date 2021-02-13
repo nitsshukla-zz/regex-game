@@ -1,0 +1,10 @@
+#13-feb-2021
+1) Planning to use react-native owing to below reasons:
+  a) Not planning to have very complex features
+  b) May need a web-app
+  c) Not as bad in computation extensiveness as hybrid app, need to run a lot of test-cases
+  d) Has integration with java sdk too: https://reactnative.dev/docs/native-modules-android
+  
+2) Firebase will be adopted for following use-cases:
+  a) For normal DB operations
+  b) Authentication and authorization
